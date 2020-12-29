@@ -13,3 +13,12 @@ Under the GNU license, it can be used freely.
 So it's worth a look.
 
 Have fun
+
+
+
+How to:
+Use Visual Studio 2015
+Use XNA framework
+Open Project
+
+Happy Coding

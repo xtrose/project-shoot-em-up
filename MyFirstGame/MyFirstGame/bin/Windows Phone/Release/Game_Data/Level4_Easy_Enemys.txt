@@ -1,9 +1,0 @@
-Enemy11;just;-50;-30;100;60;Medium;;;
-
-
-
-
-// <-- Trennzeichen für den Code
-
-Daten zu den Gegnern
-Gegner Typ ; Sprites die geladen werden [just, left, right] ; Hitbox Korrektur x Achse ; Hitbox Korrektur y Achse ; Hitbox Breite ; Hitbox Höhe ; Explosions Typ [Mini, Small] ;;;

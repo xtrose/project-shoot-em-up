@@ -1,0 +1,17 @@
+Enemy9;just,left,right;15;20;30;40;Mini;0;;;
+Enemy4;just,left,right;-25;-20;50;40;Small;0;;;
+Enemy3;just,left,right;-25;-20;50;40;Small;0;;;
+Enemy5;just,left,right;-27;-34;55;68;Small;0;;;
+Enemy12;just,left,right;-40;-40;80;80;Medium;0,01;;;
+Enemy12;just,left,right;-40;-40;80;80;Medium;-0,02;;;
+Enemy7;just,left,right;-27;-27;54;54;Small;0;;;
+Enemy8;just,left,right;-27;-27;54;54;Small;0;;;
+
+
+
+
+
+// <-- Trennzeichen für den Code
+
+Daten zu den Gegnern
+Gegner Typ ; Sprites die geladen werden [just, left, right] ; Hitbox Korrektur x Achse ; Hitbox Korrektur y Achse ; Hitbox Breite ; Hitbox Höhe ; Explosions Typ [Mini, Small] ; Drehung Grad per Pixel ;;;

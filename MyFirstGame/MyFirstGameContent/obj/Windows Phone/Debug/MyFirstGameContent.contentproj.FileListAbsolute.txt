@@ -1,0 +1,5 @@
+D:\Eigene Dateien\Projekte\Windows Phone\MyFirstGame\MyFirstGame\MyFirstGame\MyFirstGameContent\obj\Windows Phone\Debug\MyFirstGameContent.contentprojResolveAssemblyReference.cache
+D:\Moses\Projekte\Windows Phone\Project Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGameContent\obj\Windows Phone\Debug\MyFirstGameContent.contentprojResolveAssemblyReference.cache
+D:\Moses\Projekte\Windows\Windows Phone\Project Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGameContent\obj\Windows Phone\Debug\MyFirstGameContent.contentprojResolveAssemblyReference.cache
+D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGameContent\obj\Windows Phone\Debug\MyFirstGameContent.contentprojResolveAssemblyReference.cache
+D:\Moses\Projekte\Game Studio\xna\Shoot 'Em Up\MyFirstGame\MyFirstGame\MyFirstGameContent\obj\Windows Phone\Debug\MyFirstGameContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+Background_Frames=4700;
+BackgroundAnimationOccurrence=40;
+BackgroundAnimationSpeed=4-7;
+BackgroundAnimationOpacity=2-5;
+BossFrame=3600;
+
+
+
+
+
+// <-- Trennzeichen für den Code
+
+Daten zum Ablauf des Levels
+Background_Frames --> Gesamte Frames in der das Hintergrundbild abläuft
+BackgroundAnimationOccurrence --> Vorkommen der Hintergrundanimationen Frames
+BackgroundAnimationSpeed --> Geschwindigkeit der Hintergrundanimation [Pixel per Frame Minimal, Pixel per Frame Maximal] 
+BackgroundAnimationOpayity --> Größe der Hintergrundanimation [Min, Max] 1-10, wird in Float umgewandelt

@@ -1,0 +1,2114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>FontDisplay.spritefont</Source>
+      <Name>FontDisplay</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\FontDisplay.xnb</Output>
+      <Time>2014-05-03T22:55:08.6265802+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FontBossTime.spritefont</Source>
+      <Name>FontBossTime</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\FontBossTime.xnb</Output>
+      <Time>2014-05-18T11:59:48.3844799+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FontHighscores.spritefont</Source>
+      <Name>FontHighscores</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\FontHighscores.xnb</Output>
+      <Time>2015-10-28T21:09:27.6778072+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShip.png</Source>
+      <Name>MyShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShip.xnb</Output>
+      <Time>2014-04-19T20:34:56.4741661+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotFire.png</Source>
+      <Name>MyShotFire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotFire.xnb</Output>
+      <Time>2014-04-19T22:18:33.3034404+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotPhaser.png</Source>
+      <Name>MyShotPhaser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotPhaser.xnb</Output>
+      <Time>2014-05-02T12:59:30.4684522+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1_Background.jpg</Source>
+      <Name>Level1_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level1_Background.xnb</Output>
+      <Time>2014-04-19T23:58:14.8107864+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShipLeft.png</Source>
+      <Name>MyShipLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShipLeft.xnb</Output>
+      <Time>2014-04-20T01:23:09.1054543+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShipRight.png</Source>
+      <Name>MyShipRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShipRight.xnb</Output>
+      <Time>2014-04-20T01:23:08.6054403+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy0Just.png</Source>
+      <Name>Enemy0Just</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy0Just.xnb</Output>
+      <Time>2014-04-20T21:38:22.4138828+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy0Left.png</Source>
+      <Name>Enemy0Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy0Left.xnb</Output>
+      <Time>2014-04-20T21:38:22.439885+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy0Right.png</Source>
+      <Name>Enemy0Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy0Right.xnb</Output>
+      <Time>2014-04-20T21:38:22.4078841+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy1Left.png</Source>
+      <Name>Enemy1Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy1Left.xnb</Output>
+      <Time>2014-04-21T15:06:38.0422005+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy1Just.png</Source>
+      <Name>Enemy1Just</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy1Just.xnb</Output>
+      <Time>2014-04-21T15:06:38.0422005+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy1Right.png</Source>
+      <Name>Enemy1Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy1Right.xnb</Output>
+      <Time>2014-04-21T15:06:38.0422005+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy2Just.png</Source>
+      <Name>Enemy2Just</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy2Just.xnb</Output>
+      <Time>2014-04-21T16:52:12.6866147+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy3Just.png</Source>
+      <Name>Enemy3Just</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy3Just.xnb</Output>
+      <Time>2014-04-21T17:26:57.4059848+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy3Left.png</Source>
+      <Name>Enemy3Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy3Left.xnb</Output>
+      <Time>2014-04-21T17:26:57.4059848+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy3Right.png</Source>
+      <Name>Enemy3Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy3Right.xnb</Output>
+      <Time>2014-04-21T17:26:57.4059848+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSmall0.png</Source>
+      <Name>ExplosionSmall0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionSmall0.xnb</Output>
+      <Time>2014-05-24T19:16:12.7606164+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSmall1.png</Source>
+      <Name>ExplosionSmall1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionSmall1.xnb</Output>
+      <Time>2014-05-24T19:16:12.7606164+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSmall2.png</Source>
+      <Name>ExplosionSmall2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionSmall2.xnb</Output>
+      <Time>2014-05-24T19:16:12.7762401+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSmall3.png</Source>
+      <Name>ExplosionSmall3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionSmall3.xnb</Output>
+      <Time>2014-05-24T19:16:12.7762401+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSmall4.png</Source>
+      <Name>ExplosionSmall4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionSmall4.xnb</Output>
+      <Time>2014-05-24T19:16:12.7918632+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy4Just.png</Source>
+      <Name>Enemy4Just</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy4Just.xnb</Output>
+      <Time>2014-05-01T17:21:31.3365183+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy4Left.png</Source>
+      <Name>Enemy4Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy4Left.xnb</Output>
+      <Time>2014-05-01T17:21:31.3405197+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy4Right.png</Source>
+      <Name>Enemy4Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy4Right.xnb</Output>
+      <Time>2014-05-01T17:21:31.3445201+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy5Just.png</Source>
+      <Name>Enemy5Just</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy5Just.xnb</Output>
+      <Time>2014-05-01T17:21:31.3605153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy5Left.png</Source>
+      <Name>Enemy5Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy5Left.xnb</Output>
+      <Time>2014-05-01T17:21:31.3615161+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy5Right.png</Source>
+      <Name>Enemy5Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy5Right.xnb</Output>
+      <Time>2014-05-01T17:21:31.3635155+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy6Just.png</Source>
+      <Name>Enemy6Just</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy6Just.xnb</Output>
+      <Time>2014-05-01T17:21:31.3715218+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy6Left.png</Source>
+      <Name>Enemy6Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy6Left.xnb</Output>
+      <Time>2014-05-01T17:21:31.3735156+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy6Right.png</Source>
+      <Name>Enemy6Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy6Right.xnb</Output>
+      <Time>2014-05-01T17:21:31.3335196+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1_BackgroundAnimation.png</Source>
+      <Name>Level1_BackgroundAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level1_BackgroundAnimation.xnb</Output>
+      <Time>2014-05-02T21:46:14.1834658+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyShot1.png</Source>
+      <Name>EnemyShot1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\EnemyShot1.xnb</Output>
+      <Time>2014-05-01T21:50:14.9605935+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Fire_3.png</Source>
+      <Name>PowerUp_Fire_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Fire_3.xnb</Output>
+      <Time>2014-05-02T15:30:41.8087719+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Fire_6.png</Source>
+      <Name>PowerUp_Fire_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Fire_6.xnb</Output>
+      <Time>2014-05-02T15:30:41.8243971+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Fire_1.png</Source>
+      <Name>PowerUp_Fire_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Fire_1.xnb</Output>
+      <Time>2014-05-02T15:30:41.7775314+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Fire_2.png</Source>
+      <Name>PowerUp_Fire_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Fire_2.xnb</Output>
+      <Time>2014-05-02T15:30:41.8087719+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Fire_4.png</Source>
+      <Name>PowerUp_Fire_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Fire_4.xnb</Output>
+      <Time>2014-05-02T15:30:41.8087719+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Fire_5.png</Source>
+      <Name>PowerUp_Fire_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Fire_5.xnb</Output>
+      <Time>2014-05-02T15:30:41.8243971+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Fire_7.png</Source>
+      <Name>PowerUp_Fire_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Fire_7.xnb</Output>
+      <Time>2014-05-02T15:30:41.8243971+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Phaser_1.png</Source>
+      <Name>PowerUp_Phaser_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Phaser_1.xnb</Output>
+      <Time>2014-05-02T13:29:15.2112131+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Phaser_2.png</Source>
+      <Name>PowerUp_Phaser_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Phaser_2.xnb</Output>
+      <Time>2014-05-02T13:29:15.2112131+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Phaser_3.png</Source>
+      <Name>PowerUp_Phaser_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Phaser_3.xnb</Output>
+      <Time>2014-05-02T13:29:15.2268317+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Phaser_4.png</Source>
+      <Name>PowerUp_Phaser_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Phaser_4.xnb</Output>
+      <Time>2014-05-02T13:29:15.2268317+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Phaser_5.png</Source>
+      <Name>PowerUp_Phaser_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Phaser_5.xnb</Output>
+      <Time>2014-05-02T13:29:15.2268317+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Phaser_6.png</Source>
+      <Name>PowerUp_Phaser_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Phaser_6.xnb</Output>
+      <Time>2014-05-02T13:29:15.2268317+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Phaser_7.png</Source>
+      <Name>PowerUp_Phaser_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Phaser_7.xnb</Output>
+      <Time>2014-05-02T13:29:15.2112131+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_OneUp_1.png</Source>
+      <Name>PowerUp_OneUp_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_OneUp_1.xnb</Output>
+      <Time>2014-05-02T15:46:27.8901802+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_OneUp_2.png</Source>
+      <Name>PowerUp_OneUp_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_OneUp_2.xnb</Output>
+      <Time>2014-05-02T15:46:27.8901802+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_OneUp_3.png</Source>
+      <Name>PowerUp_OneUp_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_OneUp_3.xnb</Output>
+      <Time>2014-05-02T15:46:27.8745541+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_OneUp_4.png</Source>
+      <Name>PowerUp_OneUp_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_OneUp_4.xnb</Output>
+      <Time>2014-05-02T15:46:27.8745541+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_OneUp_5.png</Source>
+      <Name>PowerUp_OneUp_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_OneUp_5.xnb</Output>
+      <Time>2014-05-02T15:46:27.8745541+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_OneUp_6.png</Source>
+      <Name>PowerUp_OneUp_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_OneUp_6.xnb</Output>
+      <Time>2014-05-02T15:46:27.8901802+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_OneUp_7.png</Source>
+      <Name>PowerUp_OneUp_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_OneUp_7.xnb</Output>
+      <Time>2014-05-02T15:46:27.8901802+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotRocket.png</Source>
+      <Name>MyShotRocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotRocket.xnb</Output>
+      <Time>2014-05-02T16:41:35.8148872+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Smoke_1.png</Source>
+      <Name>Smoke_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Smoke_1.xnb</Output>
+      <Time>2014-05-02T16:41:35.8148872+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Smoke_2.png</Source>
+      <Name>Smoke_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Smoke_2.xnb</Output>
+      <Time>2014-05-02T16:41:35.8305142+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Smoke_3.png</Source>
+      <Name>Smoke_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Smoke_3.xnb</Output>
+      <Time>2014-05-02T16:41:35.8305142+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Smoke_4.png</Source>
+      <Name>Smoke_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Smoke_4.xnb</Output>
+      <Time>2014-05-02T16:41:35.8148872+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Smoke_5.png</Source>
+      <Name>Smoke_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Smoke_5.xnb</Output>
+      <Time>2014-05-02T16:41:35.8148872+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Rocket_1.png</Source>
+      <Name>PowerUp_Rocket_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Rocket_1.xnb</Output>
+      <Time>2014-05-02T19:55:12.0062031+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Rocket_2.png</Source>
+      <Name>PowerUp_Rocket_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Rocket_2.xnb</Output>
+      <Time>2014-05-02T19:55:12.0062031+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Rocket_3.png</Source>
+      <Name>PowerUp_Rocket_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Rocket_3.xnb</Output>
+      <Time>2014-05-02T19:55:12.0062031+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Rocket_4.png</Source>
+      <Name>PowerUp_Rocket_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Rocket_4.xnb</Output>
+      <Time>2014-05-02T19:55:12.0062031+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Rocket_5.png</Source>
+      <Name>PowerUp_Rocket_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Rocket_5.xnb</Output>
+      <Time>2014-05-02T19:55:11.9905776+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Rocket_6.png</Source>
+      <Name>PowerUp_Rocket_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Rocket_6.xnb</Output>
+      <Time>2014-05-02T19:55:11.9905776+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Rocket_7.png</Source>
+      <Name>PowerUp_Rocket_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Rocket_7.xnb</Output>
+      <Time>2014-05-02T19:55:11.9905776+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotLaser1.png</Source>
+      <Name>MyShotLaser1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotLaser1.xnb</Output>
+      <Time>2014-05-03T19:00:31.4049348+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotLaser2.png</Source>
+      <Name>MyShotLaser2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotLaser2.xnb</Output>
+      <Time>2014-05-03T19:00:32.6629587+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotLaser3.png</Source>
+      <Name>MyShotLaser3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotLaser3.xnb</Output>
+      <Time>2014-05-03T19:00:33.063375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Laser_1.png</Source>
+      <Name>PowerUp_Laser_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Laser_1.xnb</Output>
+      <Time>2014-05-03T16:06:44.4472701+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Laser_2.png</Source>
+      <Name>PowerUp_Laser_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Laser_2.xnb</Output>
+      <Time>2014-05-03T16:06:44.4472701+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Laser_3.png</Source>
+      <Name>PowerUp_Laser_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Laser_3.xnb</Output>
+      <Time>2014-05-03T16:06:44.4472701+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Laser_4.png</Source>
+      <Name>PowerUp_Laser_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Laser_4.xnb</Output>
+      <Time>2014-05-03T16:06:44.4472701+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Laser_5.png</Source>
+      <Name>PowerUp_Laser_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Laser_5.xnb</Output>
+      <Time>2014-05-03T16:06:44.4628968+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Laser_6.png</Source>
+      <Name>PowerUp_Laser_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Laser_6.xnb</Output>
+      <Time>2014-05-03T16:06:44.4628968+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp_Laser_7.png</Source>
+      <Name>PowerUp_Laser_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\PowerUp_Laser_7.xnb</Output>
+      <Time>2014-05-03T16:06:44.4316452+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Display.png</Source>
+      <Name>Display</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Display.xnb</Output>
+      <Time>2014-05-22T22:31:31.7560836+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Display_Fire.png</Source>
+      <Name>Display_Fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Display_Fire.xnb</Output>
+      <Time>2014-05-03T21:05:52.7312685+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Display_Laser.png</Source>
+      <Name>Display_Laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Display_Laser.xnb</Output>
+      <Time>2014-05-03T21:05:52.7142687+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Display_Phaser.png</Source>
+      <Name>Display_Phaser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Display_Phaser.xnb</Output>
+      <Time>2014-05-03T21:47:39.3288392+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Display_Level1.png</Source>
+      <Name>Display_Level1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Display_Level1.xnb</Output>
+      <Time>2014-05-03T21:47:39.3428415+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Display_Level2.png</Source>
+      <Name>Display_Level2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Display_Level2.xnb</Output>
+      <Time>2014-05-03T21:47:39.3488387+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Display_Level3.png</Source>
+      <Name>Display_Level3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Display_Level3.xnb</Output>
+      <Time>2014-05-03T21:47:35.0761118+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Display_Rocket.png</Source>
+      <Name>Display_Rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Display_Rocket.xnb</Output>
+      <Time>2014-05-03T22:20:50.4151741+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Background.png</Source>
+      <Name>Menu_Main_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Background.xnb</Output>
+      <Time>2015-10-24T21:04:26.2904857+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Highscores.png</Source>
+      <Name>Menu_Main_Button_Highscores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Highscores.xnb</Output>
+      <Time>2015-10-29T21:11:38.7981642+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_LevelSelect.png</Source>
+      <Name>Menu_Main_Button_LevelSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_LevelSelect.xnb</Output>
+      <Time>2015-10-29T21:11:38.6481558+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Options.png</Source>
+      <Name>Menu_Main_Button_Options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Options.xnb</Output>
+      <Time>2015-10-29T21:11:38.6561582+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Play.png</Source>
+      <Name>Menu_Main_Button_Play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Play.xnb</Output>
+      <Time>2015-10-29T21:11:38.6581571+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_RemoveAd.png</Source>
+      <Name>Menu_Main_Button_RemoveAd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_RemoveAd.xnb</Output>
+      <Time>2015-10-29T21:11:38.7691637+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Exit.png</Source>
+      <Name>Menu_Main_Button_Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Exit.xnb</Output>
+      <Time>2015-10-29T21:11:38.784168+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Background.png</Source>
+      <Name>Menu_Main_Button_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Background.xnb</Output>
+      <Time>2014-05-06T22:11:47.1701587+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Background_Part1.png</Source>
+      <Name>Menu_Main_Background_Part1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Background_Part1.xnb</Output>
+      <Time>2014-05-06T21:55:33.6786895+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Background_Part2.png</Source>
+      <Name>Menu_Main_Background_Part2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Background_Part2.xnb</Output>
+      <Time>2014-05-06T22:10:58.9668935+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Background_Part3.png</Source>
+      <Name>Menu_Main_Background_Part3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Background_Part3.xnb</Output>
+      <Time>2014-05-06T21:55:33.694313+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_About.png</Source>
+      <Name>Menu_Main_Button_About</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_About.xnb</Output>
+      <Time>2015-10-29T21:11:38.7791637+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SplashScreenImage.jpg</Source>
+      <Name>SplashScreenImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\SplashScreenImage.xnb</Output>
+      <Time>2015-10-27T21:48:51.734047+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Loading.png</Source>
+      <Name>Loading</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Loading.xnb</Output>
+      <Time>2014-05-10T09:49:22.1256394+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotPowerShot1.png</Source>
+      <Name>MyShotPowerShot1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotPowerShot1.xnb</Output>
+      <Time>2014-05-10T22:12:13.3001997+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotPowerShot2.png</Source>
+      <Name>MyShotPowerShot2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotPowerShot2.xnb</Output>
+      <Time>2014-05-10T22:12:13.3001997+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotPowerShot3.png</Source>
+      <Name>MyShotPowerShot3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotPowerShot3.xnb</Output>
+      <Time>2014-05-10T22:12:13.3001997+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotPowerShot4.png</Source>
+      <Name>MyShotPowerShot4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotPowerShot4.xnb</Output>
+      <Time>2014-05-10T22:12:13.3158231+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotPowerShot5.png</Source>
+      <Name>MyShotPowerShot5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotPowerShot5.xnb</Output>
+      <Time>2014-05-10T22:12:13.2845742+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotPowerShotFinal.png</Source>
+      <Name>MyShotPowerShotFinal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotPowerShotFinal.xnb</Output>
+      <Time>2014-05-10T22:12:13.2845742+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Warning1.png</Source>
+      <Name>Warning1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Warning1.xnb</Output>
+      <Time>2014-05-25T10:49:38.078184+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Warning2.png</Source>
+      <Name>Warning2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Warning2.xnb</Output>
+      <Time>2014-05-25T10:49:36.1249703+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Warning3.png</Source>
+      <Name>Warning3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Warning3.xnb</Output>
+      <Time>2014-05-25T10:49:37.7969214+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss1_1.png</Source>
+      <Name>Boss1_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss1_1.xnb</Output>
+      <Time>2014-05-14T01:13:32.9892967+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss1_2.png</Source>
+      <Name>Boss1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss1_2.xnb</Output>
+      <Time>2014-05-14T01:13:31.5674168+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss1_3.png</Source>
+      <Name>Boss1_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss1_3.xnb</Output>
+      <Time>2014-05-14T01:13:32.0674191+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss1_4.png</Source>
+      <Name>Boss1_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss1_4.xnb</Output>
+      <Time>2014-05-14T01:13:32.5517946+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionBig0.png</Source>
+      <Name>ExplosionBig0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionBig0.xnb</Output>
+      <Time>2014-05-24T19:16:12.7918632+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionBig1.png</Source>
+      <Name>ExplosionBig1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionBig1.xnb</Output>
+      <Time>2014-05-24T19:16:12.7918632+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionBig2.png</Source>
+      <Name>ExplosionBig2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionBig2.xnb</Output>
+      <Time>2014-05-24T19:16:12.8074887+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionBig3.png</Source>
+      <Name>ExplosionBig3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionBig3.xnb</Output>
+      <Time>2014-05-24T19:16:12.8074887+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionBig4.png</Source>
+      <Name>ExplosionBig4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionBig4.xnb</Output>
+      <Time>2014-05-24T19:16:12.8074887+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionBig5.png</Source>
+      <Name>ExplosionBig5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionBig5.xnb</Output>
+      <Time>2014-05-24T19:16:12.8074887+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionBig6.png</Source>
+      <Name>ExplosionBig6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionBig6.xnb</Output>
+      <Time>2014-05-24T19:16:12.8231076+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionBig7.png</Source>
+      <Name>ExplosionBig7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionBig7.xnb</Output>
+      <Time>2014-05-24T19:16:12.8231076+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Level2_Background.jpg</Source>
+      <Name>Level2_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level2_Background.xnb</Output>
+      <Time>2014-05-18T14:36:18.9853072+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Level2_BackgroundAnimation.png</Source>
+      <Name>Level2_BackgroundAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level2_BackgroundAnimation.xnb</Output>
+      <Time>2014-05-19T23:52:31.7036288+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss2_1.png</Source>
+      <Name>Boss2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss2_1.xnb</Output>
+      <Time>2014-05-18T14:50:55.8285882+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss2_2.png</Source>
+      <Name>Boss2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss2_2.xnb</Output>
+      <Time>2014-05-18T14:50:55.8335891+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss2_3.png</Source>
+      <Name>Boss2_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss2_3.xnb</Output>
+      <Time>2014-05-18T14:50:55.821589+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss2_4.png</Source>
+      <Name>Boss2_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss2_4.xnb</Output>
+      <Time>2014-05-18T14:50:55.82559+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy7Just.png</Source>
+      <Name>Enemy7Just</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy7Just.xnb</Output>
+      <Time>2014-05-22T21:29:18.5384655+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy7Left.png</Source>
+      <Name>Enemy7Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy7Left.xnb</Output>
+      <Time>2014-05-22T21:29:18.5444678+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy7Right.png</Source>
+      <Name>Enemy7Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy7Right.xnb</Output>
+      <Time>2014-05-22T21:29:18.5514661+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy8Just.png</Source>
+      <Name>Enemy8Just</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy8Just.xnb</Output>
+      <Time>2014-05-22T21:29:18.5574684+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy8Left.png</Source>
+      <Name>Enemy8Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy8Left.xnb</Output>
+      <Time>2014-05-22T21:29:18.5634689+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy8Right.png</Source>
+      <Name>Enemy8Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy8Right.xnb</Output>
+      <Time>2014-05-22T21:29:18.5294704+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Display_PowerShotBar.png</Source>
+      <Name>Display_PowerShotBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Display_PowerShotBar.xnb</Output>
+      <Time>2014-05-21T01:05:30.5308919+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Display_PowerShotMask.png</Source>
+      <Name>Display_PowerShotMask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Display_PowerShotMask.xnb</Output>
+      <Time>2014-05-21T01:03:10.4644641+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Level3_Background.jpg</Source>
+      <Name>Level3_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level3_Background.xnb</Output>
+      <Time>2014-05-24T20:16:32.0392216+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Level3_BackgroundAnimation.png</Source>
+      <Name>Level3_BackgroundAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level3_BackgroundAnimation.xnb</Output>
+      <Time>2014-05-24T08:23:44.6901074+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss4_1.png</Source>
+      <Name>Boss4_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss4_1.xnb</Output>
+      <Time>2014-05-27T21:16:07.0214197+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss4_2.png</Source>
+      <Name>Boss4_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss4_2.xnb</Output>
+      <Time>2014-05-27T21:16:07.5511489+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionMedium0.png</Source>
+      <Name>ExplosionMedium0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionMedium0.xnb</Output>
+      <Time>2014-05-24T19:16:12.8231076+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionMedium1.png</Source>
+      <Name>ExplosionMedium1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionMedium1.xnb</Output>
+      <Time>2014-05-24T19:16:12.8231076+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionMedium2.png</Source>
+      <Name>ExplosionMedium2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionMedium2.xnb</Output>
+      <Time>2014-05-24T19:16:10.8833314+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionMedium3.png</Source>
+      <Name>ExplosionMedium3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionMedium3.xnb</Output>
+      <Time>2014-05-24T19:16:10.8833314+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionMedium4.png</Source>
+      <Name>ExplosionMedium4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionMedium4.xnb</Output>
+      <Time>2014-05-24T19:16:10.8989578+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionMini0.png</Source>
+      <Name>ExplosionMini0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionMini0.xnb</Output>
+      <Time>2014-05-24T19:51:07.1772039+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionMini1.png</Source>
+      <Name>ExplosionMini1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionMini1.xnb</Output>
+      <Time>2014-05-24T19:51:07.1928285+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionMini2.png</Source>
+      <Name>ExplosionMini2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionMini2.xnb</Output>
+      <Time>2014-05-24T19:51:07.1928285+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionMini3.png</Source>
+      <Name>ExplosionMini3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionMini3.xnb</Output>
+      <Time>2014-05-24T19:51:07.1928285+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionMini4.png</Source>
+      <Name>ExplosionMini4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionMini4.xnb</Output>
+      <Time>2014-05-24T19:51:07.208463+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy9Just.png</Source>
+      <Name>Enemy9Just</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy9Just.xnb</Output>
+      <Time>2014-05-24T20:29:04.4062055+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy9Left.png</Source>
+      <Name>Enemy9Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy9Left.xnb</Output>
+      <Time>2014-05-24T20:29:04.4112043+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy9Right.png</Source>
+      <Name>Enemy9Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy9Right.xnb</Output>
+      <Time>2014-05-24T20:29:04.4122039+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyShot2_1.png</Source>
+      <Name>EnemyShot2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\EnemyShot2_1.xnb</Output>
+      <Time>2014-05-25T11:09:49.5126448+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyShot2_2.png</Source>
+      <Name>EnemyShot2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\EnemyShot2_2.xnb</Output>
+      <Time>2014-05-25T11:09:49.5126448+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyShot2_3.png</Source>
+      <Name>EnemyShot2_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\EnemyShot2_3.xnb</Output>
+      <Time>2014-05-25T11:09:49.5282694+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Header.png</Source>
+      <Name>Menu_Main_Header</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Header.xnb</Output>
+      <Time>2015-10-29T21:11:38.7751648+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level4_Background.jpg</Source>
+      <Name>Level4_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level4_Background.xnb</Output>
+      <Time>2015-05-23T12:24:32.8457287+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Level4_BackgroundAnimation.png</Source>
+      <Name>Level4_BackgroundAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level4_BackgroundAnimation.xnb</Output>
+      <Time>2015-05-23T12:28:41.8591531+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss3_1.png</Source>
+      <Name>Boss3_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss3_1.xnb</Output>
+      <Time>2015-05-23T12:25:00.9752295+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss3_2.png</Source>
+      <Name>Boss3_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss3_2.xnb</Output>
+      <Time>2015-05-23T12:25:01.3757323+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss3_3.png</Source>
+      <Name>Boss3_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss3_3.xnb</Output>
+      <Time>2015-05-23T12:25:01.8760666+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss3_4.png</Source>
+      <Name>Boss3_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss3_4.xnb</Output>
+      <Time>2015-05-23T12:25:00.6074526+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy11Just.png</Source>
+      <Name>Enemy11Just</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy11Just.xnb</Output>
+      <Time>2015-05-23T18:30:17.4661865+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy10Just.png</Source>
+      <Name>Enemy10Just</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy10Just.xnb</Output>
+      <Time>2015-05-23T18:16:40.8804253+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy10Left.png</Source>
+      <Name>Enemy10Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy10Left.xnb</Output>
+      <Time>2015-05-23T18:16:41.2654468+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy10Right.png</Source>
+      <Name>Enemy10Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Enemy10Right.xnb</Output>
+      <Time>2015-05-23T18:16:40.277391+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Medium.png</Source>
+      <Name>Menu_Main_Button_Medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Medium.xnb</Output>
+      <Time>2015-10-29T21:11:38.6501574+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Easy.png</Source>
+      <Name>Menu_Main_Button_Easy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Easy.xnb</Output>
+      <Time>2015-10-29T21:11:38.7821652+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Hard.png</Source>
+      <Name>Menu_Main_Button_Hard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Hard.xnb</Output>
+      <Time>2015-10-29T21:11:38.7861755+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_1.png</Source>
+      <Name>Menu_Main_Button_Level_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_1.xnb</Output>
+      <Time>2015-10-29T21:11:38.6181566+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_2.png</Source>
+      <Name>Menu_Main_Button_Level_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_2.xnb</Output>
+      <Time>2015-10-29T21:11:38.6211547+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_4.png</Source>
+      <Name>Menu_Main_Button_Level_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_4.xnb</Output>
+      <Time>2015-10-29T21:11:38.628156+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_5.png</Source>
+      <Name>Menu_Main_Button_Level_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_5.xnb</Output>
+      <Time>2015-10-29T21:11:38.6321553+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_6.png</Source>
+      <Name>Menu_Main_Button_Level_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_6.xnb</Output>
+      <Time>2015-10-29T21:11:38.6361572+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_7.png</Source>
+      <Name>Menu_Main_Button_Level_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_7.xnb</Output>
+      <Time>2015-10-29T21:11:38.6401552+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_3.png</Source>
+      <Name>Menu_Main_Button_Level_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_3.xnb</Output>
+      <Time>2015-10-29T21:11:38.6251549+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Background_Small.png</Source>
+      <Name>Menu_Main_Button_Background_Small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Background_Small.xnb</Output>
+      <Time>2015-10-25T13:36:43.1826627+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Hard_No.png</Source>
+      <Name>Menu_Main_Button_Hard_No</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Hard_No.xnb</Output>
+      <Time>2015-10-29T21:11:38.7881636+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Medium_No.png</Source>
+      <Name>Menu_Main_Button_Medium_No</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Medium_No.xnb</Output>
+      <Time>2015-10-29T21:11:38.6531564+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_2_No.png</Source>
+      <Name>Menu_Main_Button_Level_2_No</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_2_No.xnb</Output>
+      <Time>2015-10-29T21:11:38.6231629+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_3_No.png</Source>
+      <Name>Menu_Main_Button_Level_3_No</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_3_No.xnb</Output>
+      <Time>2015-10-29T21:11:38.6271562+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_4_No.png</Source>
+      <Name>Menu_Main_Button_Level_4_No</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_4_No.xnb</Output>
+      <Time>2015-10-29T21:11:38.6301567+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_5_No.png</Source>
+      <Name>Menu_Main_Button_Level_5_No</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_5_No.xnb</Output>
+      <Time>2015-10-29T21:11:38.6341571+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_6_No.png</Source>
+      <Name>Menu_Main_Button_Level_6_No</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_6_No.xnb</Output>
+      <Time>2015-10-29T21:11:38.6381594+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_7_No.png</Source>
+      <Name>Menu_Main_Button_Level_7_No</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_7_No.xnb</Output>
+      <Time>2015-10-29T21:11:38.6421556+01:00</Time>
+    </Item>
+    <Item>
+      <Source>xtrose_Logo.png</Source>
+      <Name>xtrose_Logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\xtrose_Logo.xnb</Output>
+      <Time>2015-10-27T21:48:51.1319299+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Back.png</Source>
+      <Name>Menu_Main_Button_Back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Back.xnb</Output>
+      <Time>2015-10-29T21:11:38.7801645+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Icon_Facebook.png</Source>
+      <Name>Icon_Facebook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Icon_Facebook.xnb</Output>
+      <Time>2015-10-27T22:47:31.7875218+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Icon_VK.png</Source>
+      <Name>Icon_VK</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Icon_VK.xnb</Output>
+      <Time>2015-10-27T22:38:36.1341746+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Icon_Twitter.png</Source>
+      <Name>Icon_Twitter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Icon_Twitter.xnb</Output>
+      <Time>2015-10-27T22:38:36.1321775+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Icon_YouTube.png</Source>
+      <Name>Icon_YouTube</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Icon_YouTube.xnb</Output>
+      <Time>2015-10-27T22:38:36.121174+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Icon_xtrose.png</Source>
+      <Name>Icon_xtrose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Icon_xtrose.xnb</Output>
+      <Time>2015-10-27T22:38:36.1351757+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_MusicBy.png</Source>
+      <Name>Menu_Main_Button_MusicBy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_MusicBy.xnb</Output>
+      <Time>2015-10-29T21:11:38.6541581+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Rate.png</Source>
+      <Name>Menu_Main_Button_Rate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Rate.xnb</Output>
+      <Time>2015-10-29T21:11:38.6601565+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Support.png</Source>
+      <Name>Menu_Main_Button_Support</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Support.xnb</Output>
+      <Time>2015-10-29T21:11:38.7731638+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Highscores_Background.png</Source>
+      <Name>Menu_Main_Highscores_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Highscores_Background.xnb</Output>
+      <Time>2015-10-29T21:11:38.7771637+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_10.png</Source>
+      <Name>Menu_Main_Button_Level_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_10.xnb</Output>
+      <Time>2015-10-29T21:11:38.6471577+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_8.png</Source>
+      <Name>Menu_Main_Button_Level_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_8.xnb</Output>
+      <Time>2015-10-29T21:11:38.6431555+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Level_9.png</Source>
+      <Name>Menu_Main_Button_Level_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Level_9.xnb</Output>
+      <Time>2015-10-29T21:11:38.6451565+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotPhaserSound.wav</Source>
+      <Name>MyShotPhaserSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotPhaserSound.xnb</Output>
+      <Time>2014-05-02T20:34:17.6159881+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSmallSound.wav</Source>
+      <Name>ExplosionSmallSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionSmallSound.xnb</Output>
+      <Time>2014-04-21T19:45:02.2948359+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ImpactSound.wav</Source>
+      <Name>ImpactSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ImpactSound.xnb</Output>
+      <Time>2014-05-02T14:54:30.935641+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound_Fire.wav</Source>
+      <Name>Sound_Fire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Sound_Fire.xnb</Output>
+      <Time>2014-05-02T13:36:50.6334614+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound_Phaser.wav</Source>
+      <Name>Sound_Phaser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Sound_Phaser.xnb</Output>
+      <Time>2014-05-02T13:36:50.6334614+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound_PowerUp.wav</Source>
+      <Name>Sound_PowerUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Sound_PowerUp.xnb</Output>
+      <Time>2014-05-02T13:56:16.7084833+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound_OneUp.wav</Source>
+      <Name>Sound_OneUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Sound_OneUp.xnb</Output>
+      <Time>2014-05-02T15:52:06.1606516+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound_Rocket.wav</Source>
+      <Name>Sound_Rocket</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Sound_Rocket.xnb</Output>
+      <Time>2014-05-02T20:00:47.234599+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotRocketSound.wav</Source>
+      <Name>MyShotRocketSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotRocketSound.xnb</Output>
+      <Time>2014-05-02T20:22:19.1684087+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotLaserSound.wav</Source>
+      <Name>MyShotLaserSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotLaserSound.xnb</Output>
+      <Time>2014-05-03T15:03:20.900288+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound_Laser.wav</Source>
+      <Name>Sound_Laser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Sound_Laser.xnb</Output>
+      <Time>2014-05-03T16:17:02.9668902+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound_PowerShotReady.wav</Source>
+      <Name>Sound_PowerShotReady</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Sound_PowerShotReady.xnb</Output>
+      <Time>2014-05-10T11:11:53.8843661+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotPowerShotSound.wav</Source>
+      <Name>MyShotPowerShotSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotPowerShotSound.xnb</Output>
+      <Time>2014-05-11T10:12:48.7070141+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyShotFireSound.wav</Source>
+      <Name>MyShotFireSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\MyShotFireSound.xnb</Output>
+      <Time>2014-05-11T10:20:15.4453058+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyShot1Sound.wav</Source>
+      <Name>EnemyShot1Sound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\EnemyShot1Sound.xnb</Output>
+      <Time>2014-05-15T23:02:05.0388643+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound_Alert.wav</Source>
+      <Name>Sound_Alert</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Sound_Alert.xnb</Output>
+      <Time>2014-05-16T07:21:14.8627175+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionBigSound.wav</Source>
+      <Name>ExplosionBigSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\ExplosionBigSound.xnb</Output>
+      <Time>2014-05-15T23:16:01.8865799+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss1_Sound1.wav</Source>
+      <Name>Boss1_Sound1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss1_Sound1.xnb</Output>
+      <Time>2014-05-15T23:44:45.5195366+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss2_Sound1.wav</Source>
+      <Name>Boss2_Sound1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss2_Sound1.xnb</Output>
+      <Time>2014-05-18T14:54:28.3250884+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss3_Sound1.wav</Source>
+      <Name>Boss3_Sound1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss3_Sound1.xnb</Output>
+      <Time>2014-05-24T08:34:31.7818502+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyShot2Sound.wav</Source>
+      <Name>EnemyShot2Sound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\EnemyShot2Sound.xnb</Output>
+      <Time>2014-05-25T11:17:33.4860022+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss4_Sound1.wav</Source>
+      <Name>Boss4_Sound1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss4_Sound1.xnb</Output>
+      <Time>2015-05-23T12:35:35.3969069+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Button_Sound.wav</Source>
+      <Name>Menu_Main_Button_Sound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Button_Sound.xnb</Output>
+      <Time>2015-10-29T21:46:09.3843096+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss_Music.mp3</Source>
+      <Name>Boss_Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss_Music.xnb</Output>
+      <Extra>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Boss_Music.wma</Extra>
+      <Time>2014-05-14T07:22:15.4484421+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1_Music.mp3</Source>
+      <Name>Level1_Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level1_Music.xnb</Output>
+      <Extra>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level1_Music.wma</Extra>
+      <Time>2014-05-20T00:34:05.28297+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Main_Music.mp3</Source>
+      <Name>Menu_Main_Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Music.xnb</Output>
+      <Extra>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Menu_Main_Music.wma</Extra>
+      <Time>2014-05-10T09:25:22.1015921+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Level2_Music.mp3</Source>
+      <Name>Level2_Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level2_Music.xnb</Output>
+      <Extra>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level2_Music.wma</Extra>
+      <Time>2014-05-20T00:34:04.7517166+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Level3_Music.mp3</Source>
+      <Name>Level3_Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level3_Music.xnb</Output>
+      <Extra>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level3_Music.wma</Extra>
+      <Time>2014-05-25T15:36:27.4756743+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Level4_Music.mp3</Source>
+      <Name>Level4_Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level4_Music.xnb</Output>
+      <Extra>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\Level4_Music.wma</Extra>
+      <Time>2015-05-23T15:54:38.8529595+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3F43D954-5AEB-4312-9E87-41072A882E7A}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGameContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\Moses\Projekte\Windows\Windows Phone\Shoot 'em up\MyFirstGame\MyFirstGame\MyFirstGame\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-10-24T20:36:12.8678132+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstGame", "MyFirstGame\MyFirstGame\MyFirstGame.csproj", "{83CCB832-BB80-4EEA-ACB4-1C7695A89542}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MyFirstGameContent", "MyFirstGame\MyFirstGameContent\MyFirstGameContent.contentproj", "{3F43D954-5AEB-4312-9E87-41072A882E7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83CCB832-BB80-4EEA-ACB4-1C7695A89542}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{83CCB832-BB80-4EEA-ACB4-1C7695A89542}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{83CCB832-BB80-4EEA-ACB4-1C7695A89542}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{83CCB832-BB80-4EEA-ACB4-1C7695A89542}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{83CCB832-BB80-4EEA-ACB4-1C7695A89542}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{83CCB832-BB80-4EEA-ACB4-1C7695A89542}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{3F43D954-5AEB-4312-9E87-41072A882E7A}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{3F43D954-5AEB-4312-9E87-41072A882E7A}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
